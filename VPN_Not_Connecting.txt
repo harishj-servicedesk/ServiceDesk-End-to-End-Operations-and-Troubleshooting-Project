@@ -1,0 +1,16 @@
+Incident Number: INC0001002
+
+Issue:
+VPN authentication failed.
+
+Troubleshooting:
+Verified internet connection.
+Verified credentials.
+Restarted VPN client.
+
+Resolution:
+Password reset completed.
+VPN connected successfully.
+
+Status:
+Closed.

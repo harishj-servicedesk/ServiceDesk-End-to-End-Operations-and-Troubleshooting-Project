@@ -1,0 +1,15 @@
+Incident Number: INC0001004
+
+Issue:
+Microsoft Teams not opening.
+
+Troubleshooting:
+Ended Teams process.
+Cleared Teams cache.
+Restarted application.
+
+Resolution:
+Application opened successfully.
+
+Status:
+Closed.

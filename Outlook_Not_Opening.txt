@@ -1,0 +1,17 @@
+Incident Number: INC0001001
+
+Issue:
+Microsoft Outlook crashes during startup.
+
+Troubleshooting:
+Verified user identity.
+Restarted Outlook.
+Opened Outlook in Safe Mode.
+Disabled COM add-ins.
+Restarted Outlook.
+
+Resolution:
+Issue resolved.
+
+Status:
+Closed.

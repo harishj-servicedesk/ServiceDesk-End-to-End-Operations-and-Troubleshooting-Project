@@ -1,0 +1,16 @@
+Incident Number: INC0001003
+
+Issue:
+Printer shows Offline.
+
+Troubleshooting:
+Checked printer cables.
+Restarted printer.
+Restarted Print Spooler service.
+Printed test page.
+
+Resolution:
+Printing restored.
+
+Status:
+Closed.
